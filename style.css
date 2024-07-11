@@ -60,7 +60,7 @@ section.imagem {
     background-color: rgb(48, 48, 48);
     color: white;
     background-attachment: fixed;
-    background-size: 100%;
+    background-size: cover;
 }
 #q1 {
     background-image: url(imagens/1.png);
